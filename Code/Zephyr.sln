@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zephyr", "Zephyr.csproj", "{FA8AC546-1ADC-42C0-BE01-34D2F09A5B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zephyr CodeContent", "Content\Zephyr CodeContent.contentproj", "{707D6D28-2E84-48C0-9A16-6462A5571924}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8AC546-1ADC-42C0-BE01-34D2F09A5B0E}.Debug|x86.ActiveCfg = Debug|x86
+		{FA8AC546-1ADC-42C0-BE01-34D2F09A5B0E}.Debug|x86.Build.0 = Debug|x86
+		{FA8AC546-1ADC-42C0-BE01-34D2F09A5B0E}.Release|x86.ActiveCfg = Release|x86
+		{FA8AC546-1ADC-42C0-BE01-34D2F09A5B0E}.Release|x86.Build.0 = Release|x86
+		{707D6D28-2E84-48C0-9A16-6462A5571924}.Debug|x86.ActiveCfg = Debug|x86
+		{707D6D28-2E84-48C0-9A16-6462A5571924}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
