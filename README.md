@@ -2,9 +2,9 @@ Game Saviour (FULL VERSION - 8 Levels of Game)
 ========
 
 The present game has the key elements of  
-• Arcade games, 
-• Racing games, 
-• Strategy games and 
+* Arcade games, 
+* Racing games, 
+* Strategy games and 
 
 Saviour has taken the responsibility of collecting the Millennium development goals defined by the UN. 
 He then uses these goals to eradicate the problems in  the inflicted areas of the planet.
@@ -17,18 +17,18 @@ This is a tribute to those countries which have outdone others in ac
 Technology
 ----
 
-Updated for  Microsoft XNA 4.0
-Language - C#
+* Updated for  Microsoft XNA 4.0
+* Language - C#
 
 How to install
 ------------------
-1) Install Visual Studio 2010
+* Install Visual Studio 2010
 
-2) Install XNA 4.0 
+* Install XNA 4.0 
 
-3) Open Zephyr.csproj / Zephyr.sln file with Visual Studio
+* Open Zephyr.csproj / Zephyr.sln file with Visual Studio
 
-4) Hit Run
+* Hit Run
 
 License
 -------
